@@ -1,16 +1,93 @@
-## Hi there 👋
 
-<!--
-**pravinmane08/pravinmane08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 👋 Hi, I'm Pravin Mane
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">💡 **Aspiring Data Scientist | AI & Machine Learning Engineer | SQL Developer | Python Developer**
+
+<p align="center">🚀 Passionate about building intelligent systems using data</p>
+
+---
+
+## 🧠 About Me
+
+* 🎓 Data Science & Machine Learning enthusiast
+* 📊 Skilled in data analysis, visualization, and model building
+* 🤖 Love solving real-world problems using AI
+* 🚀 Currently working on ML projects and deployment
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming
+
+
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![HTML](https://skillicons.dev/icons?i=html)
+
+
+### 📊 Data Science
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+
+### 📈 Visualization
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-modern-blue?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-modern-green?style=flat-square)
+
+
+### 🤖 AI & Machine Learning (Core Focus)
+
+
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-purple?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+
+### 🌐 Web & Deployment
+
+
+
+![Flask](https://skillicons.dev/icons?i=flask)
+
+
+### ⚙️ Tools
+
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![PowerBI](https://img.shields.io/badge/PowerBI-modern-yellow?style=flat-square)
+
+---
+
+## 📈 Currently Learning
+
+* Model Optimization
+* Cloud Deployment (AWS / Docker)
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/pravin-mane-9b47a2247](http://www.linkedin.com/in/pravin-mane-9b47a2247)
+* 🧑‍💻 GitHub: [https://github.com/pravinmane08](https://github.com/pravinmane08)
+
+---
+
+⭐ *"Turning Data into Insights and Ideas into Reality"*
